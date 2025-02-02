@@ -1,4 +1,4 @@
-package org.example;
+package org.example.test.singletone;
 
 public class DBoperations {
     public static DBoperations dBoperations;
